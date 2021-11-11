@@ -85,7 +85,25 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
+                "title": "Volunteer",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.coursera.com"
+            },
+            {
+                "title": "Cert 1",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Cert 2",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Cert 3",
                 "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
                 "image": "project1.jpg",
                 "url": "https://www.google.com"
