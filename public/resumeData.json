@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Jay Carter",
-        "description": "I have a Bachelors in Business concentrated in Management Information Systems, experience with various hospital electronic medical record systems, technical skills such as programming, computer hardware, business software, certification for advanced technical support/ system administration and soon to be finishing a certification in Microsoft data analytics (Power BI, SQL/Databases).",
+        "description": "Passionate about data, analysis, business applications, visualization, technology, computers, volunteering and photography. Doing my best to make the world better one pixel at a time.",
         "image": "profilepic.jpg",
         "bio": "Management Information Systems (BBA) - Northwood University",
         "contactmessage": "How to reach me:",
@@ -74,11 +74,11 @@
             },
             {
                 "name": "Spreadsheets",
-                "level": "90%"
+                "level": "95%"
             },
             {
-                "name": "VBA",
-                "level": "65%"
+                "name": "Documentation Creation",
+                "level": "85%"
             }
         ]
     },
