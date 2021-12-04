@@ -30,7 +30,7 @@ export default function Header(props) {
                 <ul id="nav" className="nav">
                     <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                     <li><a className="smoothscroll" href="#about">About</a></li>
-                    <li><a className="smoothscroll" href="#resume">Education & Work Experience</a></li>
+                    <li><a className="smoothscroll" href="#resume" >Education & Work Experience & Skills</a></li>
                     <li><a className="smoothscroll" href="#portfolio">Volunteer History | Portfolio | Certifications</a></li>
                 </ul>
             </nav>

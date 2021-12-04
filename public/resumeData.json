@@ -2,7 +2,8 @@
     "main": {
         "name": "Jay Carter",
         "description": "Passionate about data, analysis, business applications, visualization, technology, computers, volunteering and photography. Doing my best to make the world better one pixel at a time.",
-        "image": "profilepic.jpg",
+        "image": "JayProfilePic.jpg",
+        "badge": "GoogleITBadge.png",
         "bio": "Management Information Systems (BBA) - Northwood University",
         "contactmessage": "How to reach me:",
         "email": "carterj3@northwood.edu",
@@ -50,13 +51,14 @@
                 "company": "MidMichigan Health",
                 "title": "Information Technology Intern",
                 "years": "August 18, 2016 - March 26, 2021 ",
-                "description": ""
+                "description": "Placeholder"
             },
             {
                 "company": "John Carter DDS",
                 "title": "Intern",
                 "years": "June 2011 - August 2016",
-                "description": ""
+                "description": "Placeholder placholder",
+                "description2": "placeholder"
             }
         ],
         "skills": [
