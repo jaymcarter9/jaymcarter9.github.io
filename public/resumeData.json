@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Jay Carter",
-        "description": "Passionate about data, analysis, business applications, visualization, technology, computers, volunteering and photography. Doing my best to make the world better one pixel at a time.",
+        "description": "Passionate about data, analysis, business applications, visualization, technology, computers, volunteering and photography. Doing my best to make the world better one pixel at a time",
         "image": "JayProfilePic.jpg",
         "badge": "GoogleITBadge.png",
         "bio": "Management Information Systems (BBA) - Northwood University",
@@ -35,15 +35,15 @@
         "education": [
             {
                 "school": "Northwood University",
-                "degree": "Bachelors of Business Administration",
+                "degree": "Bachelor of Business Administration",
                 "graduated": "December 2019",
                 "description": "Concentration in Management Information Systems"
             },
             {
-                "school": "Delta College",
+                "school": "Delta  College",
                 "degree": "Associates of Arts",
                 "graduated": "December 2019",
-                "description": "Prerequisits for Bachelor classes"
+                "description": "Prerequisites for Bachelor classes"
             }
         ],
         "work": [
@@ -51,14 +51,28 @@
                 "company": "MidMichigan Health",
                 "title": "Information Technology Intern",
                 "years": "August 18, 2016 - March 26, 2021 ",
-                "description": "Placeholder"
+                "description": "------------------------------------------ Job Duties -----------------------------------------",
+                "description2": "Assisted electronic medical record team with various projects to achieve department goals and objectives",
+                "description3": "Used various legacy electronic medical record systems to analyze patient data in integration/merge workflows",
+                "description4": "Attended EpicCare Ambulatory training in Verona, Wisconsin with the intention of certification",
+                "description5": "Prepared team status reports for distribution to executive management",
+                "description6": "Reviewed co-workers work quality to ensure it meets established standards",
+                "description7": "Documented procedures to ensure consistent workflows",
+                "description8": "Utilized excellent communication skills through multiple channels in a timely manner"
             },
             {
                 "company": "John Carter DDS",
                 "title": "Intern",
                 "years": "June 2011 - August 2016",
-                "description": "Placeholder placholder",
-                "description2": "placeholder"
+                "description": "----------------- Job Duties ----------------",
+                "description2": "Cleaned imported data to be exported for patient information",
+                "description3": "Prepared documentation, printed materials, and labeled letters/packages for marketing to current/potential patients",
+                "description4": "Assisted co-workers with computer related issues and routinely fixed network and printer problems",
+                "description5": "Filed patient charts",
+                "description6": "Developed x-rays",
+                "description7": "Sanitized clinical tools",
+                "description8": "Utilized phones to communicate with patients and 3rd party vendors"
+
             }
         ],
         "skills": [
@@ -68,15 +82,15 @@
             },
             {
                 "name": "Microsoft Office",
-                "level": "99%"
+                "level": "95%"
             },
             {
                 "name": "Power BI",
-                "level": "50%"
+                "level": "79%"
             },
             {
                 "name": "Spreadsheets",
-                "level": "95%"
+                "level": "97%"
             },
             {
                 "name": "Documentation Creation",
