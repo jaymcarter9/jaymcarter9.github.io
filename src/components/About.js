@@ -6,6 +6,7 @@ export default function About(props) {
         var name = props.data.name;
         var profilepic = 'images/' + props.data.image;
         var badge1 = 'images/' + props.data.badge;
+        var cert = 'images/' + props.data.cert;
         var bio = props.data.bio;
         var street = props.data.address.street;
         var city = props.data.address.city;
@@ -20,8 +21,9 @@ export default function About(props) {
             <div className="row">
                 <div className="three columns">
                     <img className="profile-pic" src={profilepic} alt="Jay Carter Profile Picture" />
+                    <img className="cert" src={cert} alt="Jay Carter Badge" />
                     <img className="badge1" src={badge1} alt="Jay Carter Badge" />
-                </div>
+                    </div>
                 <div className="nine columns main-col">
                     <h2>About Me</h2>
 

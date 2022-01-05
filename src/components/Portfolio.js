@@ -8,11 +8,11 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: theme.palette.primary.light,
     },
     card: {
-        maxWidth: 250,
+        maxWidth: 800,
         margin: 0,
     },
     media: {
-        height: 160,
+        height: 200,
     },
 }));
 
