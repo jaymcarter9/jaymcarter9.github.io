@@ -1,0 +1,220 @@
+{
+    "main": {
+        "name": "Jay Carter",
+        "description": "Passionate about data, analysis, business applications, visualization, technology, computers, volunteering and photography. Doing my best to make the world better, one pixel at a time",
+        "image": "JayProfilePic.jpg",
+        "badge": "GoogleITBadge.png",
+        "cert": "MicrosoftDABadge.png",
+        "bio": "Management Information Systems (BBA) - Northwood University",
+        "contactmessage": "How to reach me:",
+        "email": "carterj3@northwood.edu",
+        "phone": "989-859-6343",
+        "github": "https://github.com/jaymcarter9",
+        "project": "https://github.com/",
+        "address": {
+            "street": "4524 Old Pine Trail",
+            "city": "Delton",
+            "state": "MI"
+        },
+        "website": "https://linkedin.com/in/jaymcarter9",
+        "resumedownload": "https://drive.google.com/file/d/1G9Y31Egf39jzve1qzanaAeZSE4etsAFU/view?usp=sharing",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/jaymcarter9",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/jaymcarter9",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Skills: Electronic Medical Record Systems, Data Analysis of patient/medical/hospital data, Document Creation, Project management/team workflows, HIPAA and compliance confidentiality, Communication with 3rd party vendors, collaboration with collegues and teams, programming, computer/telececommunication - hardware/equipment, business software/applications/systems, certification for intermediate/advanced technical support and system analysis/administration",
+        "education": [
+            {
+                "school": "Northwood University",
+                "degree": "Bachelor of Business Administration",
+                "graduated": "December 2019",
+                "description": "Concentration in Management Information Systems"
+            },
+            {
+                "school": "Delta  College",
+                "degree": "Associates of Arts",
+                "graduated": "December 2019",
+                "description": "Prerequisites for Bachelor classes"
+            }
+        ],
+        "work": [
+            {
+                "company": "MidMichigan Health",
+                "title": "Information Technology Intern",
+                "years": "August 18, 2016 - March 26, 2021 ",
+                "description": "------------------------------------------ Job Duties -----------------------------------------",
+                "description2": "Assisted electronic medical record team with various projects to achieve department goals and objectives",
+                "description3": "Used various legacy electronic medical record systems to analyze patient data in integration/merge workflows",
+                "description4": "Attended EpicCare Ambulatory training in Verona, Wisconsin with the intention of certification",
+                "description5": "Prepared team status reports for distribution to executive management",
+                "description6": "Reviewed co-workers work quality to ensure it meets established standards",
+                "description7": "Documented procedures to ensure consistent workflows",
+                "description8": "Utilized excellent communication skills through multiple channels in a timely manner"
+            },
+            {
+                "company": "John Carter DDS",
+                "title": "Intern",
+                "years": "June 2011 - August 2016",
+                "description": "----------------- Job Duties ----------------",
+                "description2": "Cleaned imported data to be exported for patient information",
+                "description3": "Prepared documentation, printed materials, and labeled letters/packages for marketing to current/potential patients",
+                "description4": "Assisted co-workers with computer related issues and routinely fixed network and printer problems",
+                "description5": "Filed patient charts",
+                "description6": "Developed x-rays",
+                "description7": "Sanitized clinical tools",
+                "description8": "Utilized phones to communicate with patients and 3rd party vendors"
+
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "69%"
+            },
+            {
+                "name": "Microsoft Office",
+                "level": "99%"
+            },
+            {
+                "name": "Power BI",
+                "level": "85%"
+            },
+            {
+                "name": "Spreadsheets",
+                "level": "97%"
+            },
+            {
+                "name": "Documentation Creation",
+                "level": "85%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Volunteer History",
+                "category": "My volunteer portfolio",
+                "image": "NU.jpg",
+                "url": "https://www.coursera.com"
+            },
+            {
+                "title": "Certification",
+                "category": "Issued: 12/29/2021",
+                "image": "MicrosoftDABadge.png",
+                "url": "https://www.credly.com/badges/eae9ee23-6b00-4344-b39e-82be97005d00/public_url"
+            },
+            {
+                "title": "Certification",
+                "category": "Issued: 05/20/2021",
+                "image": "GoogleITBadge.png",
+                "url": "https://www.credly.com/badges/551cc81a-94c1-42c3-a275-25efa422e906/public_url"
+            },
+            {
+                "title": "Course Certification",
+                "category": "Power BI Experience",
+                "image": "certificate1.png",
+                "url": "https://drive.google.com/file/d/1zCiD7v4qHJvLIV1-GkqRykDiRKhDFIcV/view?usp=sharing"
+            },
+            {
+                "title": "Credly Portfolio",
+                "category": "View my credentials",
+                "image": "Achievement1_2.png",
+                "url": "https://www.credly.com/users/jay-carter.f7ec16c2/badges"
+            },
+            {
+                "title": "Microsoft Learn Portfolio",
+                "category": "Learning progess for Microsoft products",
+                "image": "Exam2.png",
+                "url": "https://docs.microsoft.com/en-us/users/jaymcarter/"
+            },
+            {
+                "title": "Course Certification",
+                "category": "10 Excel Features Every Analyst Should Know",
+                "image": "excel2.png",
+                "url": "http://ude.my/UC-904098b3-c69f-4f8c-afcc-82006f7f3193"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Charts and Dashboards with Google Sheets",
+                "image": "data4.png",
+                "url": "https://coursera.org/share/210f14639e8b83565679df3dfdcf742f"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Business Analysis & Process Management",
+                "image": "data2.png",
+                "url": "https://coursera.org/share/0277e12e01e8e00d2ffabe350eb8f77e"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Analyze Data in Sheets and Build a Hiring Plan",
+                "image": "data3.png",
+                "url": "https://coursera.org/share/1c73cddfae1fff3dd05d105d416356d8"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Postman - Intro to APIs",
+                "image": "Coding1.png",
+                "url": "https://coursera.org/share/86a6c3010115e8988785aa9d29cb907b"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Crypto Forecasting with Power BI",
+                "image": "MoneyAngel1.png",
+                "url": "https://coursera.org/share/e70b33b2923846af7292b49c2909063a"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Stock Market Dashboard using Power BI",
+                "image": "MoneyAnalysis1.png",
+                "url": "https://coursera.org/share/59c0f3cfacb1576615e68b137af6dad6"
+            },
+            {
+                "title": "Project Certification",
+                "category": "HR dashboard using Power BI",
+                "image": "Data1.png",
+                "url": "https://coursera.org/share/1f124f89331e4495fb7f14fc60dc54e4"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Sales Dashboard using Power BI",
+                "image": "Data2.png",
+                "url": "https://coursera.org/share/319e6dc05b46d0f12f901d11cd282a31"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Build Dashboards in Power BI",
+                "image": "Data3.png",
+                "url": "https://coursera.org/share/91e2371daffdbf11a7486ab732c6fd1c"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Power BI Report Development Crash Course",
+                "image": "Data4.png",
+                "url": "https://coursera.org/share/f58f3854d49fb8b13cfcf4a31a1b1f20"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Get, Shape, Combine and Merge with Power BI",
+                "image": "Logic1.png",
+                "url": "https://coursera.org/share/992c63302d5646f247d35c1ac7ae9e67"
+            },
+            {
+                "title": "Project Certification",
+                "category": "Getting Started with Power BI Desktop",
+                "image": "Start1.png",
+                "url": "https://coursera.org/share/98b84ae4a72e7fc633078312a1f6e064"
+            }
+        ]
+    }
+}
