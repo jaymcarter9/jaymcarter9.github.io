@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
         margin: 0,
     },
     media: {
-        height: 200,
+        height: 300,
     },
 }));
 
