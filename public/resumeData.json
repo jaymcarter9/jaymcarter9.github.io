@@ -52,7 +52,7 @@
                 "company": "MidMichigan Health",
                 "title": "Information Technology Intern",
                 "years": "August 18, 2016 - March 26, 2021 ",
-                "description": "------------------------------------------ Job Duties -----------------------------------------",
+                "description": "",
                 "description2": "Assisted electronic medical record team with various projects to achieve department goals and objectives",
                 "description3": "Used various legacy electronic medical record systems to analyze patient data in integration/merge workflows",
                 "description4": "Attended EpicCare Ambulatory training in Verona, Wisconsin with the intention of certification",
@@ -65,7 +65,7 @@
                 "company": "John Carter DDS",
                 "title": "Intern",
                 "years": "June 2011 - August 2016",
-                "description": "----------------- Job Duties ----------------",
+                "description": "",
                 "description2": "Cleaned imported data to be exported for patient information",
                 "description3": "Prepared documentation, printed materials, and labeled letters/packages for marketing to current/potential patients",
                 "description4": "Assisted co-workers with computer related issues and routinely fixed network and printer problems",
@@ -140,7 +140,7 @@
             {
                 "title": "Course Certification",
                 "category": "10 Excel Features Every Analyst Should Know",
-                "image": "Excel2.png",
+                "image": "Excel3.png",
                 "url": "http://ude.my/UC-904098b3-c69f-4f8c-afcc-82006f7f3193"
             },
             {
@@ -158,7 +158,7 @@
             {
                 "title": "Project Certification",
                 "category": "Analyze Data for Hiring Plan",
-                "image": "Data3.png",
+                "image": "Excel2.png",
                 "url": "https://coursera.org/share/1c73cddfae1fff3dd05d105d416356d8"
             },
             {
