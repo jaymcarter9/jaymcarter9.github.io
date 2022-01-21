@@ -26,8 +26,8 @@ export default function Resume(props) {
                 <p>&bull; {work.description4}</p>
                 <p>&bull; {work.description5}</p>
                 <p>&bull; {work.description6}</p>
-                {/* <p>&bull; {work.description7}</p>
-                <p>&bull; {work.description8}</p>   */ }             
+                <p>{work.description7}</p>
+                <p>{work.description8}</p>           
             </div>
         })
 

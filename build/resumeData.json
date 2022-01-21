@@ -17,7 +17,7 @@
             "state": "MI"
         },
         "website": "https://linkedin.com/in/jaymcarter9",
-        "resumedownload": "https://drive.google.com/file/d/1G9Y31Egf39jzve1qzanaAeZSE4etsAFU/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1gAY9B7LTGRJsRkXD6is9xSp4Zb1iJ6FG/view?usp=sharing",
         "social": [
             {
                 "name": "linkedin",
@@ -50,29 +50,27 @@
         "work": [
             {
                 "company": "MidMichigan Health",
-                "title": "Information Technology Intern",
-                "years": "August 18, 2016 - March 26, 2021 ",
+                "title": "Information Technology College Intern",
+                "years": "August 18, 2016 - February 26, 2021 ",
                 "description": "",
-                "description2": "Assisted electronic medical record team with various projects to achieve department goals and objectives",
-                "description3": "Used various legacy electronic medical record systems to analyze patient data in integration/merge workflows",
-                "description4": "Attended EpicCare Ambulatory training in Verona, Wisconsin with the intention of certification",
-                "description5": "Prepared team status reports for distribution to executive management",
-                "description6": "Reviewed co-workers work quality to ensure it meets established standards",
-                "description7": "Documented procedures to ensure consistent workflows",
-                "description8": "Utilized excellent communication skills through multiple channels in a timely manner"
+                "description2": "Assisted the Electronic Medical Records Team in converting and organizing over 55,000 Advance Medical Directives from numerous legacy systems into one database on Epic. Numerous projects included cleaning up raw data from legacy systems and formatting it into exports for Epic integration, as well as participation of recurrent testing of workflows for troubleshooting for accurate data capture and consistent functionality.",
+                "description3": "Managed relationships with third-party vendors (Telemediq) to update inefficient workflows within the hospitals on-call scheduling system. Facilitated training and collaboration between Project Managers and Telemediq to ensure continuous efficiency and optimization within the workflow.",
+                "description4": "Created and maintained Weekly Status Report files for all-IT meetings. Increased efficiency of routine communication between departments by implementing Outlook email templates. Controlled all updates to presentations for meetings",
+                "description5": "Shadowed multiple departments within the hospital (Telecommunication, Device Management, and Robotics) to better understand how the IT department could better assist and improve integration.",
+                "description6": "Attended EpicCare Ambulatory training in Verona, WI to learn how to manage/create workflows and dashboards for healthcare providers and employees using the Epic electronic medical record system."
+                
             },
             {
                 "company": "John Carter DDS",
                 "title": "Intern",
                 "years": "June 2011 - August 2016",
-                "description": "",
-                "description2": "Cleaned imported data to be exported for patient information",
-                "description3": "Prepared documentation, printed materials, and labeled letters/packages for marketing to current/potential patients",
-                "description4": "Assisted co-workers with computer related issues and routinely fixed network and printer problems",
-                "description5": "Filed patient charts",
-                "description6": "Developed x-rays",
-                "description7": "Sanitized clinical tools",
-                "description8": "Utilized phones to communicate with patients and 3rd party vendors"
+                "description" : "",
+                "description2": "Assisted with daily software, hardware, and network issues within the practice.",
+                "description3": "Designed a mobile app and published it on the Apple App Store and Google Play Store. App presented practices information, location services, push notifications for marketing purposes, easier communication for patients with staff personnel, and integration of patient review/feedback forms.",
+                "description4": "Cleaned patient data to be exported into multiple deliverables.",
+                "description5" : "Problem-solved solutions and trained staff to avoid issues.",
+                "description6" : "Developed and converted X-Rays to digital in the Dentrix dental software."
+                
 
             }
         ],
@@ -108,6 +106,12 @@
                 "url": "https://drive.google.com/file/d/1LW61xUuTAY6BV4DgmwooU0Ra3V2GZ6fx/view?usp=sharing"
             },
             {
+                "title": "Eagle Scout",
+                "category": "Project Portfolio",
+                "image": "JayCarter EagleScout.JPG",
+                "url": "https://drive.google.com/file/d/1qvaOogecleTlf8WuKUeihVKFRxUJ55Zz/view?usp=sharing"
+            },
+            {
                 "title": "Certification",
                 "category": "Issued: 12/29/2021",
                 "image": "MicrosoftDABadge.png",
@@ -132,32 +136,32 @@
                 "url": "https://www.credly.com/users/jay-carter.f7ec16c2/badges"
             },
             {
-                "title": "Microsoft Learn Portfolio",
+                "title": "Microsoft Learn",
                 "category": "Learning progess for Microsoft products",
                 "image": "Exam2.png",
                 "url": "https://docs.microsoft.com/en-us/users/jaymcarter/"
             },
             {
                 "title": "Course Certification",
-                "category": "10 Excel Features Every Analyst Should Know",
+                "category": "Excel for Analysts",
                 "image": "Excel3.png",
                 "url": "http://ude.my/UC-904098b3-c69f-4f8c-afcc-82006f7f3193"
             },
             {
                 "title": "Project Certification",
-                "category": "Charts and Dashboards with Google Sheets",
+                "category": "Sheets Dashboards",
                 "image": "Data4.png",
                 "url": "https://coursera.org/share/210f14639e8b83565679df3dfdcf742f"
             },
             {
                 "title": "Project Certification",
-                "category": "Business Analysis & Process Mgt",
+                "category": "Process Mgt.",
                 "image": "Data2.png",
                 "url": "https://coursera.org/share/0277e12e01e8e00d2ffabe350eb8f77e"
             },
             {
                 "title": "Project Certification",
-                "category": "Analyze Data for Hiring Plan",
+                "category": "Hiring Plan Analysis",
                 "image": "Excel2.png",
                 "url": "https://coursera.org/share/1c73cddfae1fff3dd05d105d416356d8"
             },
