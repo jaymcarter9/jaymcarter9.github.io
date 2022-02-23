@@ -17,7 +17,7 @@
             "state": "MI"
         },
         "website": "https://linkedin.com/in/jaymcarter9",
-        "resumedownload": "https://drive.google.com/file/d/1gAY9B7LTGRJsRkXD6is9xSp4Zb1iJ6FG/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1uQJFR_o2v5GxHxlOvj6jOh_thfFXFMdk/view?usp=sharing",
         "social": [
             {
                 "name": "linkedin",
@@ -54,7 +54,7 @@
                 "years": "August 18, 2016 - February 26, 2021 ",
                 "description": "",
                 "description2": "Assisted the Electronic Medical Records Team in converting and organizing over 55,000 Advance Medical Directives from numerous legacy systems into one database on Epic. Numerous projects included cleaning up raw data from legacy systems and formatting it into exports for Epic integration, as well as participation of recurrent testing of workflows for troubleshooting for accurate data capture and consistent functionality.",
-                "description3": "Managed relationships with third-party vendors (Telemediq) to update inefficient workflows within the hospitals on-call scheduling system. Facilitated training and collaboration between Project Managers and Telemediq to ensure continuous efficiency and optimization within the workflow.",
+                "description3": "Managed relationships with third-party vendors (Telmediq) to update inefficient workflows within the hospitals on-call scheduling system. Facilitated training and collaboration between Project Managers and Telmediq to ensure continuous efficiency and optimization within the workflow.",
                 "description4": "Created and maintained Weekly Status Report files for all-IT meetings. Increased efficiency of routine communication between departments by implementing Outlook email templates. Controlled all updates to presentations for meetings",
                 "description5": "Shadowed multiple departments within the hospital (Telecommunication, Device Management, and Robotics) to better understand how the IT department could better assist and improve integration.",
                 "description6": "Attended EpicCare Ambulatory training in Verona, WI to learn how to manage/create workflows and dashboards for healthcare providers and employees using the Epic electronic medical record system."
@@ -103,7 +103,7 @@
                 "title": "Volunteer History",
                 "category": "My volunteer portfolio",
                 "image": "StudentUnitedWay.JPG",
-                "url": "https://drive.google.com/file/d/1LW61xUuTAY6BV4DgmwooU0Ra3V2GZ6fx/view?usp=sharing"
+                "url": "https://drive.google.com/file/d/1jNKBPWBKRDyQ5EfbI2PcnJ0ifI_PVehM/view?usp=sharing"
             },
             {
                 "title": "Eagle Scout",
@@ -140,6 +140,18 @@
                 "category": "Learning progess for Microsoft products",
                 "image": "Exam2.png",
                 "url": "https://docs.microsoft.com/en-us/users/jaymcarter/"
+            },
+            {
+                "title": "Course Certification",
+                "category": "Data Science",
+                "image": "Data1.png",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/1911be22e154180be1a45e50d8e7ef88b4c8f2aa"
+            },
+            {
+                "title": "Course Certification",
+                "category": "Mastering Cognitive Bias",
+                "image": "Logic1.png",
+                "url": "https://drive.google.com/file/d/14IjdxyJ3yJRRfYw2LXsoCHtnLYXDrQLk/view?usp=sharing"
             },
             {
                 "title": "Course Certification",
